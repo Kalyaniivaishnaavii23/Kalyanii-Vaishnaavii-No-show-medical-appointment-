@@ -1,0 +1,1 @@
+This project provides valuable insights into patient appointment behavior and highlights factors associated with missed appointments. The findings can support healthcare institutions in improving scheduling efficiency and patient engagement.
